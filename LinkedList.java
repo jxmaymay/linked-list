@@ -1,6 +1,7 @@
 /**
  * This class implements a singly linked list data structure.
  * 
+ @author Mason Jenkins
  *
  */
 public class LinkedList {
